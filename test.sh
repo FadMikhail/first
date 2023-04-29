@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Good morning your devilish Majesty"
+echo "Good morning your devilish Majesty" > test1
 
